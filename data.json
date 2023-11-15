@@ -1,5 +1,6 @@
-[
-    "Ford",
-    "BMW",
-    "Fiat"
-]
+{
+  "name": "Joker",
+  "city": "Gotham",
+  "isVillain": true,
+  "friends": []
+}
